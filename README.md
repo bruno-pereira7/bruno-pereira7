@@ -3,7 +3,7 @@
 <!--
 **bruno-pereira7/bruno-pereira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Gato Codando](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![Gato Codando](/assets/gif/coding.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
